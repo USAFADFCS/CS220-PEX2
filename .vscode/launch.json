@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "gdb - Windows+WSL/Ubuntu",
+            "name": "gcc - Windows+WSL/Ubuntu",
             "type": "cppdbg",
             "request": "launch",
             "program": "${fileDirname}/${fileBasenameNoExtension}",
